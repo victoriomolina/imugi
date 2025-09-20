@@ -37,7 +37,7 @@ multiple technical indicators to generate trading signals and market insights.
 To get started with Imugi, follow these steps:
 
 1. Clone the repository:
-   `git clone https://github.com/VictorioMolina/imugi.git`
-2. Run `npm start` in your terminal to execute the server in localhost.
-3. Make a request:
+   `git clone https://github.com/victoriomolina/imugi.git`
+3. Run `npm start` in your terminal to execute the server in localhost.
+4. Make a request:
    `curl "http://localhost:3000/signals?interval=1h"`
